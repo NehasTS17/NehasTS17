@@ -133,7 +133,7 @@ public class NehasTS : Developer
 ## 💼 Experience
 
 <details>
-<summary><b>🏢 SLA Institute, Chennai — .NET Full Stack Trainee | 2023 – 2024 | Chennai, India</b></summary>
+<summary><b>🏢 SLA Institute, Chennai — .NET Full Stack Trainee | 2025 – 2026 | Chennai, India</b></summary>
 
 > `C#` `ASP.NET MVC` `Web API` `Web Forms` `ReactJS` `MySQL` `Entity Framework` `REST API`
 
