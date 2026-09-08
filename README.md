@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NehasTS17&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/NehasTS17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nehas--ts-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehas-ts)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/NehasTS17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://nehas-portfolioo.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-nehas170499%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nehas170499@gmail.com)
 
 </div>
