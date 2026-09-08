@@ -105,7 +105,7 @@ public class NehasTS : Developer
 <details>
 <summary><b>🏢 SLA Institute, Chennai — .NET Full Stack Trainee | 2025 – 2026 | Chennai, India</b></summary>
 
-> `C#` `ASP.NET MVC` `Web API` `Web Forms` `ReactJS` `MySQL` `Entity Framework` `REST API`
+> `C#` `ASP.NET MVC` `Web API` `Web Forms` `ReactJS` `MySQL` `Entity Framework` `REST API` `ADO.NET`
 
 - Completed intensive hands-on training in .NET Full Stack Development, covering end-to-end application development.
 - Built real-time projects using C#, ASP.NET MVC, Web API, ReactJS, and MySQL, applying industry best practices.
@@ -123,8 +123,8 @@ public class NehasTS : Developer
 | Project | Stack | Highlights |
 |--------|-------|------------|
 | [**FitFusion Pro** 🏋️](https://github.com/NehasTS17) | C# · ASP.NET MVC · Web API · ReactJS · MySQL | Full-stack fitness, nutrition & multi-vendor commerce platform · Scalable architecture · Optimized backend services |
-| [**MobileMart** 🛒](https://github.com/NehasTS17) | ReactJS · Tailwind CSS | E-commerce frontend with dynamic product filtering · Responsive UI · Optimized component design |
-| [**Personal Portfolio** 🌐](https://github.com/NehasTS17) | ReactJS · Tailwind CSS · React Router DOM | Dark mode support · Reusable components · Optimized responsive UI |
+| [**MobileMart** 🛒](https://phone-mart-xi.vercel.app/) | ReactJS · Tailwind CSS | E-commerce frontend with dynamic product filtering · Responsive UI · Optimized component design |
+| [**Personal Portfolio** 🌐](https://nehas-portfolioo.netlify.app/) | ReactJS · Tailwind CSS · React Router DOM | Dark mode support · Reusable components · Optimized responsive UI |
 
 </div>
 
